@@ -1,2 +1,2 @@
 # Timeline
-Diving into to wonderful see of DATA
+Diving into the wonderful see of DATA
