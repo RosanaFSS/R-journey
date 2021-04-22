@@ -3,7 +3,7 @@
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
-R Introduction _MQuinho, UFMG_\
+R Introduction with _MQuinho, UFMG_\
 :heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf)
 
 KPI Monitoring with R with _NC Data_\
