@@ -1,5 +1,5 @@
 # Diving into the wonderful sea of DATA
-# ![#1589F0]( I just love *_R_* coding. )
+# ![#1589F0]( I just love *_R_* coding. )`#1589F0`
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
