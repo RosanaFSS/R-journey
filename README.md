@@ -2,6 +2,8 @@
 
 I love R. 
 
+https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif
+
 
 # R coding
 
