@@ -1,6 +1,8 @@
 # Diving into the wonderful sea of DATA
 
-https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif
+I love R. 
+
+
 # R coding
 
 KPI Monitoring with R with NC Data\
