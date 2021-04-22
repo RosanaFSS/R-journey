@@ -1,4 +1,4 @@
-# Diving into the wonderful see of DATA
+# Diving into the wonderful sea of DATA
 
 
 # R coding
