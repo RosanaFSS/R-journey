@@ -1,5 +1,4 @@
 # Diving into the wonderful sea of DATA
-
 # I just love _R coding_. 
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
