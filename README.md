@@ -7,7 +7,7 @@ Data Analysis with R Programming with _Google & Coursera_\
 :heavy_minus_sign: Apr 2021 _ongoing_
 
 R Introduction with _MQuinho, UFMG_\
-:heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf)
+:heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
 
 KPI Monitoring with R with _NC Data_\
 :heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf) 12h
