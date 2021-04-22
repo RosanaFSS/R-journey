@@ -2,7 +2,8 @@
 
 I love R. 
 
-https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif
+![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
+![SQL](https://github.com/RosanaFSS/SQL/blob/main/Data%202.gif)
 
 
 # R coding
