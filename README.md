@@ -1,12 +1,10 @@
 # Diving into the wonderful sea of DATA
 
-I love R. 
+# I just love _R coding_. 
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
-![SQL](https://github.com/RosanaFSS/SQL/blob/main/Data%202.gif)
 
 
-# R coding
 
 KPI Monitoring with R with NC Data\
 :heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf)
