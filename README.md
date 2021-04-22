@@ -1,6 +1,6 @@
 # Diving into the wonderful sea of DATA
 # I just love *_R_* coding.
-- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
 Data Analysis with R Programming with _Google & Coursera_\
