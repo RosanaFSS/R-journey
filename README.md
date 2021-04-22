@@ -11,6 +11,7 @@ R-Ladies\
 :heavy_minus_sign: Sep 2019 ![Advanced]( https://github.com/RosanaFSS/Timeline/blob/R-coding/03%20%20R%20Avan%C3%A7ado%2C%20set%202019.pdf)
 \
 \
-NC Data
+KPI Monitoring, NC Data
+:heavy_minus_sign: Oct 2019 ![Basics](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf)\
 
 __________________________________________
