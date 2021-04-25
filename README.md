@@ -7,7 +7,7 @@ Data Analysis with R Programming with _Google & Coursera_\
 :heavy_minus_sign: Apr 2021 _ongoing_\
 https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Transformation.R\
 https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R\
-https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R
+Anscombe´s Quartet and DatasauRus package  https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R
 
 R Introduction with _MQuinho, UFMG_\
 :heavy_minus_sign: Oct 2019 ![certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
