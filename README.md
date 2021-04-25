@@ -6,7 +6,7 @@
 Data Analysis with R Programming with _Google & Coursera_\
 :heavy_minus_sign: Apr 2021 _ongoing_\
 https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Transformation.R\
-https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R\\
+https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R
 
 Anscombe´s Quartet and DatasauRus package  https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R
 
