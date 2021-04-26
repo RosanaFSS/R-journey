@@ -13,7 +13,9 @@ Anscombe´s Quartet and DatasauRus  https://github.com/RosanaFSS/Timeline/blob/R
 Analyzing Bias https://github.com/RosanaFSS/Timeline/blob/R-coding/Analyzing%20Bias.R
 
 Data visualization with ggplot
+
 https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R
+https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R
 
 
 __________________________________________
