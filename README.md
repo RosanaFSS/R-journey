@@ -1,5 +1,7 @@
 # Diving into the wonderful sea of DATA
-# I just love *_R_* coding. :&#128525;:
+# I just love *_R_* coding. &#128525;
+
+
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
 Data Analysis with R Programming with _Google & Coursera_\
