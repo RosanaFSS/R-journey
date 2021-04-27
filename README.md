@@ -24,9 +24,7 @@ Apr 2021 _ongoing_\
 &#10004; Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ functions    ![labels & annotations](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R)
 
 	
-&#10004; Saving your visualization in RStudio
-
-There are six options of formats: PNG, JPEG, TIFF, BMP, SVG and EPG
+&#10004; Saving your visualization in RStudio. There are six options of formats: PNG, JPEG, TIFF, BMP, SVG and EPG
 You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function    
 
 ![saving plots]( https://github.com/RosanaFSS/Timeline/blob/R-coding/Plot%2C%20Palmer%20Penguins%2C%20Body%20Mass%20vs%20Flipper%20Length.png)
