@@ -12,10 +12,10 @@
 Data Analysis with R Programming with _Google & Coursera_\
 :heavy_minus_sign: Apr 2021 _ongoing_\
 :dot: Data Transformation  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Transformation.R)
-
-&#8599; Tooth growth analysis  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R)
-
-&#8599; Anscombe´s Quartet and DatasauRus  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R)
+	
+&#10004; Tooth growth analysis  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R)
+	
+&#10004; Anscombe´s Quartet and DatasauRus  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R)
 
 Analyzing Bias   ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Analyzing%20Bias.R)
 
