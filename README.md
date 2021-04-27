@@ -30,6 +30,7 @@ https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26
 
 
 Saving your visualization in RStudio
+
 There are six options of formats: PNG, JPEG, TIFF, BMP, SVG and EPG
 You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function
 
