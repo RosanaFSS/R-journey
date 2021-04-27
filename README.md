@@ -16,6 +16,7 @@ Data visualization with ggplot
 
 https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R
 https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R
+Facets, facet_wrap & facet_grid()
 
 
 __________________________________________
