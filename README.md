@@ -18,11 +18,7 @@ https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%
 https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R
 
 
-View Subsets using _facet_wrap()_ and _facet_grid()_ functions
-
-https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R
-
-
+View Subsets using _facet_wrap()_ and _facet_grid()_ functions   ![subsets viz](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R)
 
 Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ functions    ![Labels & annotations](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R)
 
@@ -30,9 +26,7 @@ Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ func
 Saving your visualization in RStudio
 
 There are six options of formats: PNG, JPEG, TIFF, BMP, SVG and EPG
-You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function
-
-![Timeline]( https://github.com/RosanaFSS/Timeline/blob/R-coding/Plot%2C%20Palmer%20Penguins%2C%20Body%20Mass%20vs%20Flipper%20Length.png)
+You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function    ![Saving plots]( https://github.com/RosanaFSS/Timeline/blob/R-coding/Plot%2C%20Palmer%20Penguins%2C%20Body%20Mass%20vs%20Flipper%20Length.png)
 
 
 __________________________________________
