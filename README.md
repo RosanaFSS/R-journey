@@ -26,7 +26,7 @@ https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20wi
 
 Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ functions
 
-https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R
+![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R)
 
 
 Saving your visualization in RStudio
