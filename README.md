@@ -18,6 +18,7 @@ https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%
 https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R
 
 Visualizing subsets with facet_wrap & facet_grid()
+
 https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R
 
 
