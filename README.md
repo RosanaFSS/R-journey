@@ -12,7 +12,7 @@ Anscombe´s Quartet and DatasauRus  ![coding](https://github.com/RosanaFSS/Timel
 
 Analyzing Bias   ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Analyzing%20Bias.R)
 
-Data visualization with ggplot   ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R) and ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R)
+Data visualization with ggplot   ![coding1](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R) and ![coding2](https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R)
 
 View Subsets using _facet_wrap()_ and _facet_grid()_ functions   ![subsets viz](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R)
 
