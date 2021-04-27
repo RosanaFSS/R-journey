@@ -16,17 +16,17 @@ Data Analysis with R Programming with _Google & Coursera_\
 &#10004; Tooth growth analysis  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/ToothGrowth%20Analysis.R)
 	
 &#10004; Anscombe´s Quartet and DatasauRus  ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Anscombe%C2%B4s%20Quartet%20and%20DatasauRus.R)
+	
+&#10004; Analyzing Bias   ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Analyzing%20Bias.R)
 
-Analyzing Bias   ![coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Analyzing%20Bias.R)
+&#10004; Data visualization with ggplot   ![coding1](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R) and ![coding2](https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R)
+	
+&#10004; View Subsets using _facet_wrap()_ and _facet_grid()_ functions   ![subsets viz](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R)
 
-Data visualization with ggplot   ![coding1](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Visualization%20with%20ggplot.R) and ![coding2](https://github.com/RosanaFSS/Timeline/blob/R-coding/More%20about%20data%20Visualization%20with%20ggplot.R)
+&#10004; Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ functions    ![labels & annotations](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R)
 
-View Subsets using _facet_wrap()_ and _facet_grid()_ functions   ![subsets viz](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20subsets%20with%20facet_wrap%20%26%20facet_grid.R)
-
-Enhance your Data Viz using Labels and annotations: _labs()_ & _annotate()_ functions    ![labels & annotations](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Viz%2C%20Labels%20%26%20Annotations.R)
-
-
-Saving your visualization in RStudio
+	
+&#10004; Saving your visualization in RStudio
 
 There are six options of formats: PNG, JPEG, TIFF, BMP, SVG and EPG
 You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function    
