@@ -28,7 +28,7 @@ You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()
 
 * R Markdown [Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
 
-* Adding code chunks to R Markdown notebook 
+* Adding code chunks to R Markdown notebook  [coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/R-Markdown-Intro.html)
 
 ***
 
