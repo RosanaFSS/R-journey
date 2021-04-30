@@ -28,14 +28,14 @@ Apr 2021 _ongoing_\
 You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()_ function   [saving plots]( https://github.com/RosanaFSS/Timeline/blob/R-coding/Plot%2C%20Palmer%20Penguins%2C%20Body%20Mass%20vs%20Flipper%20Length.png)
 
 
-__________________________________________
+***
 
 
 
 R Introduction with _MQuinho, UFMG_\
 * Oct 2019 [certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
 
-__________________________________________
+***
 KPI Monitoring with R with _NC Data_\
 * Oct 2019 [certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf) 12h
 
