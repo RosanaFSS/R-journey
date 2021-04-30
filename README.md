@@ -1,5 +1,5 @@
 # Diving into the wonderful sea of DATA
-# I just love *_R_* coding. &#128525;
+# I just love **_R_** coding. &#128525;
 
 
 
