@@ -1,6 +1,6 @@
 # Diving into the wonderful sea of DATA
 ## I just love **_R_** coding. &#128525;
-#### Know a little about my journey learning and practicing R since Aug 2019
+#### Know a little about my journey learning and practicing **_R_** since Aug 2019
 
 
 ![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
