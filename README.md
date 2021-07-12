@@ -17,7 +17,7 @@ concluded!
 ![Share]( https://github.com/RosanaFSS/Timeline/blob/main/first.png )
 ![Share](https://github.com/RosanaFSS/Timeline/blob/main/second.png)
 
-* July 2021  | Completed Google Data Analysis wirh R programming (https://www.coursera.org/account/accomplishments/verify/D4S2JM4DNLKJ)
+* July 2021  | Completed Google Data Analysis wirh R programming ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_D4S2JM4DNLKJ.jpeg)
 
 * ***
 
