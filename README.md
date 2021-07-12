@@ -1,4 +1,4 @@
-# Diving into the wonderful sea of DATA
+# Diving into the wonderful sea of DATA with R
 ## I just love **_R_** coding. &#128525;
 #### Know a little about my journey learning and practicing **_R_** since Aug 2019
 
