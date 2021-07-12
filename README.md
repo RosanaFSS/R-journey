@@ -20,7 +20,7 @@
 * I recommend launching a Marketing Campaign to attract Casual Riders in June to our Docked Bikes service on weekends specially on Sundays focusing stations (1) Streeter Sr & Grand Ave, (2) Lake Shore Dr & Monroe St and (3) Millenium Park. In June Casual Riders´ bike usage is high achieving its peak in July.
 
 ##### Capstone project, my coding
-
+[coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Case%20Study%20Bike%20Sharing%2C%20Rosana%C2%B4s.R)
 
 * ***
 
