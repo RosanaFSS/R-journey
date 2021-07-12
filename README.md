@@ -10,12 +10,14 @@
 Data Analysis with R Programming with _Google & Coursera_\
 concluded!
 * July 2021   | Completed Google Data Analytics Professional Certificate ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_M474NZHHYG43.jpeg)
-* July 2021   | Completed Google Data Analytics Capstone: Complete a Case Study (https://coursera.org/share/ee9d631cb2e477ed38d4f1257f22a7a5)
+* July 2021   | Completed Google Data Analytics Capstone: Complete a Case Study ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_UPW8Q2UQ5S6Z.jpeg)
 * April 2021  | Completed Google Data Analysis wirh R programming ![Certificate](https://github.com/RosanaFSS/Timeline/blob/main/CERTIFICATE_LANDING_PAGE_D4S2JM4DNLKJ.jpeg)
 
-##### Recommendation
-* I recommend launching a Marketing Campaign to attract Casual Riders in June # to our Docked Bikes service on weekends specially on Sundays focusing stations (1) Streeter Sr & Grand Ave, (2) Lake Shore Dr & Monroe St and (3) Millenium Park. In June Casual Riders´bike usage is high achieving its peak in July.
+##### My Capstone Recommendation
+* I recommend launching a Marketing Campaign to attract Casual Riders in June to our Docked Bikes service on weekends specially on Sundays focusing stations (1) Streeter Sr & Grand Ave, (2) Lake Shore Dr & Monroe St and (3) Millenium Park. In June Casual Riders´ bike usage is high achieving its peak in July.
+* 
 ![Share]( https://github.com/RosanaFSS/Timeline/blob/main/first.png )
+
 ![Share](https://github.com/RosanaFSS/Timeline/blob/main/second.png)
 
 * ***
