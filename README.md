@@ -383,6 +383,7 @@ summary(db$ride_length)
 
 # . Docked is the preferred rideable bike type.
 # . Both Casual riders and Members prefer Docked bikes.
+[https://github.com/RosanaFSS/Timeline/blob/main/second.png?raw=true]
 
 # . Casual riders travel longer than Members!
 # . Casual riders longest trip is longer than Member´s longest trip.
