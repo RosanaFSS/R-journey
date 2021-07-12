@@ -46,16 +46,16 @@ You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()
 
 
 R Introduction with _MQuinho, UFMG_
-* Oct 2019 ![C](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
+* Oct 2019 [Certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
 
 ***
 KPI Monitoring with R with _NC Data_
-* Oct 2019 ![Certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf) 12h
+* Oct 2019 [Certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/05%20%20NC%20Data%2C%20Monitoramento%20de%20Indicadores%20com%20R%2C%20out%202019.pdf) 12h
 
 ***
 Basics, Intermediate and Advanced with _R-Ladies_
-* Sep 2019   | Advanced | ![Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/03%20%20R%20Avan%C3%A7ado%2C%20set%202019.pdf) 6h  & 
-| Intermediate | ![Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/02%20%20R%20Intermedi%C3%A1rio%2C%20set%202019.pdf) 6h
-* Aug 2019  | Basics | ![Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/01%20%20R%20B%C3%A1sico.%20ago%202019.pdf) 6h
+* Sep 2019   | Advanced | [Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/03%20%20R%20Avan%C3%A7ado%2C%20set%202019.pdf) 6h  & 
+| Intermediate | [Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/02%20%20R%20Intermedi%C3%A1rio%2C%20set%202019.pdf) 6h
+* Aug 2019  | Basics | [Certificate]( https://github.com/RosanaFSS/Timeline/blob/R-coding/01%20%20R%20B%C3%A1sico.%20ago%202019.pdf) 6h
 
 ***
