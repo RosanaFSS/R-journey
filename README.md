@@ -9,11 +9,11 @@
 
 Data Analysis with R Programming with _Google & Coursera_\
 concluded!
-* Completed Google Data Analytics ProfessionalCertificate [coding] (https://www.coursera.org/account/accomplishments/professional-cert/M474NZHHYG43)
+* July 2021  | Completed Google Data Analytics ProfessionalCertificate [coding] (https://www.coursera.org/account/accomplishments/professional-cert/M474NZHHYG43)
 
-* Completed Google Data Analytics Capstone: Complete a Case Study [coding] (https://coursera.org/share/ee9d631cb2e477ed38d4f1257f22a7a5)
+* July 2021  | Completed Google Data Analytics Capstone: Complete a Case Study [coding] (https://coursera.org/share/ee9d631cb2e477ed38d4f1257f22a7a5)
 
-* Completed Google Data Analysis wirh R programming [coding] (https://www.coursera.org/account/accomplishments/verify/D4S2JM4DNLKJ)
+* July 2021  | Completed Google Data Analysis wirh R programming [coding] (https://www.coursera.org/account/accomplishments/verify/D4S2JM4DNLKJ)
 
 * Data Transformation  [coding](https://github.com/RosanaFSS/Timeline/blob/R-coding/Data%20Transformation.R)
 	
