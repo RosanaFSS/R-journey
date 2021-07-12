@@ -46,7 +46,7 @@ You can save your viz using _Export_ opion in the _plots tab_ or using _ggsave()
 
 
 R Introduction with _MQuinho, UFMG_
-* Oct 2019 ![Certificate](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
+* Oct 2019 ![C](https://github.com/RosanaFSS/Timeline/blob/R-coding/04%20%20MQuinho%2C%20Introdu%C3%A7%C3%A3o%20R%2C%20out%202019.pdf) 12h
 
 ***
 KPI Monitoring with R with _NC Data_
