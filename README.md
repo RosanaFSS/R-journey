@@ -565,7 +565,7 @@ ggarrange (Plot1, Plot2,
            nrow=2,ncol=1,  font.label = list(size = 7, color = "black", face = "bold", family = NULL))
 dev.copy(device = png, filename = "first.png", width = 900, height = 800)
 dev.off()    
-
+[coding](https://github.com/RosanaFSS/Timeline/commit/8b3b733554f85378651140c3ac4f551676ef5a74?short_path=cc53768#diff-cc537681d8346652005d1357c7c6c2265b3d0b6348db305470002ce1fea7821a)
 
 # . Overall preference is riding on Sundays in July.
 # . Casual Riders prefer riding on Sundays in July.
