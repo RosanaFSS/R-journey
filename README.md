@@ -3,7 +3,7 @@
 
 
 
-[Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
+![Timeline](https://github.com/RosanaFSS/Timeline/blob/R-coding/giphy.gif)
 
 
 
